@@ -1,4 +1,4 @@
-module clone
+module github.com/elwin/topic-cloner
 
 go 1.22.2
 
